@@ -1,0 +1,17 @@
+*{
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+}
+
+#produtos{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.div{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
