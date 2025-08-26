@@ -1,0 +1,19 @@
+.menu{
+    display: none;
+    border: 1px solid black;
+    position: absolute;
+    background:#f9f9f9;
+    position: absolute;
+    margin-top: 5px;
+}
+
+.menu a{
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+.menu a:hover{
+    background-color: #ddd;
+}
